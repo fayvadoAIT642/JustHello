@@ -12,7 +12,7 @@ public class FayeNewHelloWorld {
 	}
 
 	private static int calculateSum(int sum) {
-		for (int i = 1; i <= 15; i++) {
+		for (int i = 1; i <= 150; i++) {
 			sum += i;	
 		}
 		return sum;
