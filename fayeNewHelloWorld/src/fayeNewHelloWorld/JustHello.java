@@ -17,6 +17,7 @@ public class JustHello {
 		System.out.println("this is a better message");
 		System.out.println("this is a better message 2");
 		System.out.println("this is to check a chekin to Egit");
+		System.out.println("this is to check a chekin to Egit Test 1");
 	}
 
 }
