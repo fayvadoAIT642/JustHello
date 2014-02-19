@@ -8,6 +8,8 @@ public class FayeNewHelloWorld {
 		System.out.println(HELLO); 
 		int sum = 0;
 		sum = calculateSum(sum);
+		System.out.println("This is the sum");
+		System.out.println("------------------");
         System.out.println(sum);
 	}
 
